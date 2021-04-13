@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+
+.contenedor {
+    width: 100%;
+    background: white;
+    margin-bottom: 35px;
+}
+
+.centrado {
+    width: 70%;
+    margin: 50px auto;
+}
+
+.top {
+    display:flex;
+    justify-content: space-between;
+    padding: 15px;
+    
+}
+
+.desc {
+    padding: 10px;
+}
+
+.iconos {
+    font-size: 30px;
+}
+.icn {
+    font-size: 30px;
+    position: absolute;
+    
+}
+
+.izquierda {
+    display:flex;
+}
+
+.izquierda i {
+    font-size: 30px;
+    align-items: center;
+
+}
+
+.top p {
+    margin-left: 10px;
+}
+
+.derechag {
+    float: right;
+}
+
+.likes {
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.rightg {
+    font-size: 30px;
+}
